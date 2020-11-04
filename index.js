@@ -252,7 +252,6 @@ Using the annoyingSong function below do the following:
   2. At each iteration, it should return this string: 
       "(number) bottles of soda on the wall, (number) bottles of soda, take one down pass it around (number left over) bottles of soda on the wall"
 */
-
 function annoyingSong(number){
         let count = number;
         for(count ; count >= 1; count - 1)
